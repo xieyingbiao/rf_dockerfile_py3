@@ -1,0 +1,17 @@
+robotframework==3.0.4
+robotframework-selenium2library==3.0.0
+robotframework-seleniumlibrary==3.1.1
+cffi==1.12.3
+robotframework-sshlibrary==3.1.0
+robotframework-excellibrary==0.0.2
+PyMySQL
+robotframework-Databaselibrary
+requests
+redis
+pymongo
+#robotframework-redislibrary
+websocket-client
+robotframework-websocketclient
+ntlm-auth
+robotframework-requests
+robotframework-jsonschemalibrary

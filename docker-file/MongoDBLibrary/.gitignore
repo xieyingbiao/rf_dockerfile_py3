@@ -1,0 +1,12 @@
+build/
+*.pyc
+*.class
+.idea
+.DS_Store
+downloads/
+report.html
+output.xml
+log.html
+*.sublime-project
+*.sublime-workspace
+
